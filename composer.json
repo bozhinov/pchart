@@ -1,6 +1,7 @@
 {
   "name": "bozhinov/pchart",
   "description": "pChart 2.2 compatible with PHP 7",
+  "version": "2.2.3"
   "keywords": [
     "php",
     "charts",
